@@ -1,0 +1,38 @@
+{
+  "Cluster_0": {
+    "size": 1647,
+    "pct_of_total": 23.38,
+    "avg_tenure_months": 60.38,
+    "avg_monthly_charges_usd": 93.01,
+    "dominant_internet_service": "Fiber optic",
+    "dominant_contract_type": "Two year",
+    "churn_rate_pct": 11.23
+  },
+  "Cluster_1": {
+    "size": 1526,
+    "pct_of_total": 21.67,
+    "avg_tenure_months": 30.55,
+    "avg_monthly_charges_usd": 21.08,
+    "dominant_internet_service": "No",
+    "dominant_contract_type": "Two year",
+    "churn_rate_pct": 7.4
+  },
+  "Cluster_2": {
+    "size": 1822,
+    "pct_of_total": 25.87,
+    "avg_tenure_months": 23.81,
+    "avg_monthly_charges_usd": 51.86,
+    "dominant_internet_service": "DSL",
+    "dominant_contract_type": "Month-to-month",
+    "churn_rate_pct": 23.98
+  },
+  "Cluster_3": {
+    "size": 2048,
+    "pct_of_total": 29.08,
+    "avg_tenure_months": 18.82,
+    "avg_monthly_charges_usd": 86.08,
+    "dominant_internet_service": "Fiber optic",
+    "dominant_contract_type": "Month-to-month",
+    "churn_rate_pct": 55.37
+  }
+}

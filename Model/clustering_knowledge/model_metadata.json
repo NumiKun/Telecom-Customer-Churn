@@ -1,0 +1,30 @@
+{
+  "algorithm": "K-Means",
+  "optimal_k": 4,
+  "init_method": "k-means++",
+  "n_init": 50,
+  "max_iter": 500,
+  "random_state": 42,
+  "n_features_used": 23,
+  "n_samples": 7043,
+  "n_iterations_to_converge": 7,
+  "final_inertia": 87750.9948,
+  "evaluation_metrics": {
+    "silhouette_score": 0.2252,
+    "davies_bouldin_index": 1.6762,
+    "calinski_harabasz_score": 1985.0157
+  },
+  "features_excluded": [
+    "Churn",
+    "gender"
+  ],
+  "encoding_strategy": {
+    "binary": "0/1 direct mapping",
+    "service_ordinal": "0=No internet service, 1=No, 2=Yes",
+    "contract": "0=Month-to-month, 1=One year, 2=Two year",
+    "internet_service": "One-Hot Encoding",
+    "payment_method": "One-Hot Encoding"
+  },
+  "scaling": "StandardScaler (zero mean, unit variance)",
+  "dimensionality_reduction": "PCA 2D/3D for visualization only"
+}
