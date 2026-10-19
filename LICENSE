@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2026 NumiKun
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+### Attribution & Citation Guide
+
+If you use, adapt, or reference this notebook, model pipeline, or analysis in your own project, academic work, or portfolio, you are required under this license to provide attribution to the original author:
+
+- **Author**: NumiKun
+- **Repository**: https://github.com/NumiKun/Telecom-Customer-Churn
+- **Project**: Telecom Customer Churn - Customer Segmentation using K-Means Clustering
+
+Example Citation (Markdown):
+> Analysis and segmentation pipeline adapted from [NumiKun/Telecom-Customer-Churn](https://github.com/NumiKun/Telecom-Customer-Churn).
+
+Example Citation (BibTeX):
+```bibtex
+@misc{numikun2026telecomchurn,
+  author = {NumiKun},
+  title = {Telecom Customer Churn: Customer Segmentation using K-Means Clustering},
+  year = {2026},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/NumiKun/Telecom-Customer-Churn}}
+}
+```
